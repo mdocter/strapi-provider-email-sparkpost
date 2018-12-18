@@ -1,0 +1,45 @@
+{
+  "name": "strapi-provider-email-sparkpost",
+  "version": "3.0.0-alpha.16",
+  "description": "Sparkpost provider for strapi email",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "email",
+    "strapi",
+    "sparkpost"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "sparkpost": "2.1.3"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "nick@teamgi.ca",
+    "name": "Nick Verwymeren",
+    "url": "https://graphicintuitions.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Graphic Intuitions",
+      "email": "info@teamgi.ca",
+      "url": "https://graphicintuitions.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "license": "MIT"
+}

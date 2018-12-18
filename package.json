@@ -1,5 +1,5 @@
 {
-  "name": "teamgi/strapi-provider-email-sparkpost",
+  "name": "@teamgi/strapi-provider-email-sparkpost",
   "version": "1.0",
   "description": "Sparkpost provider for strapi email",
   "homepage": "http://strapi.io",

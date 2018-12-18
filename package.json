@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-email-sparkpost",
+  "name": "teamgi/strapi-provider-email-sparkpost",
   "version": "3.0.0-alpha.16",
   "description": "Sparkpost provider for strapi email",
   "homepage": "http://strapi.io",
@@ -32,10 +32,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git@github.com:graphicintuitions/strapi-provider-email-sparkpost.git"
   },
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/graphicintuitions/strapi-provider-email-sparkpost/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
